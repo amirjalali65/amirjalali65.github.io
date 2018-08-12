@@ -6,7 +6,7 @@
 layout: default
 ---
 
-<img src="Ilaria_Chillotti_BN.jpg" width="170" 
+<img src="amirjalali.JPG" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
 I am a PhD canidate in Computer Science. My main research subjects are <span style="color:#f00909">**Post-Quantum Cryptography**</span>, <span style="color:#f00909">**Homomorphic Encryption**</span>. <br> 
@@ -23,7 +23,7 @@ During summer 2018-2019 I did an internship as a Security Software Engineer at t
 <span style="color:#f00909">**E-mail:**</span> ajalali2016@fau.edu
 
 
-
+# [](#header-1)Employment
 * * *
 
 
@@ -39,14 +39,6 @@ During summer 2018-2019 I did an internship as a Security Software Engineer at t
 
 # [](#header-1)Development
 
-* * *
-
-
-# [](#header-1)Talks
-* * *
-
-
-# [](#header-1)International schools
 * * *
 
 # [](#header-1)Teaching
