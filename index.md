@@ -25,17 +25,10 @@ In summer 2018-2019 I did an internship as a Security Software Engineer with Sec
 ***
 # [](#header-1)Employment
 
-##### Graduate Research Assistant (2015 - present)
-##### ***Applied Cryptography Group***
-<br>
-##### Security Software Engineer Intern (summer 2018)
-##### ***LinkedIn Corporation***  
-<br>
-##### Research Intern (summer 2017)
-##### ***Microsoft Research***
-<br>
-##### Security Analyst (2013 - 2015)
-##### ***Information Services Corporation (ISC)***
+##### (2015 - present) Graduate Research Assistant - Applied Cryptography Group, Florida Atlantic University, Boca Raton, FL.
+##### (2018) Security Software Engineer Intern - ***LinkedIn Corporation***, Sunnyvale, CA.  
+##### (2017) Research Intern, ***Microsoft Research***, Redmond, WA.
+##### (2013 - 2015) Security Analyst (2013 - 2015), ***Information Services Corporation (ISC)***, Tehran, Iran.
 * * *
 
 
