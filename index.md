@@ -6,10 +6,10 @@
 layout: default
 ---
 
-<img src="Amir.JPG" width="170" 
+<img src="Amir.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
-I am a PhD canidate in Computer Science and Engineering at Florida Atlantic University, FL. My main research subjects are <span style="color:#f00909">**Post-Quantum Cryptography**</span>, <span style="color:#f00909">**Homomorphic Encryption**</span>. <br> 
+I am a PhD canidate in Computer Science and Engineering at Florida Atlantic University, FL. My main research subjects are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. <br> 
 I recieved a M.S. in Computer Architecture at Tehran Polytechnic, Iran (2012). 
 I started my PhD in 2015 at Rochester Institute of Technology, New York at Applied Cryptography research lab. Later in 2017 our labratory joined the [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/) at Florida Atlantic University. Since then I have been working as a graduate researcher under the supervision of [Reza Azarderakhsh](https://faculty.eng.fau.edu/azarderakhsh/). <br>
 During summer 2017-2018 I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
@@ -22,8 +22,20 @@ In summer 2018-2019 I did an internship as a Security Software Engineer with Sec
 
 <span style="color:#f00909">**E-mail:**</span> ajalali2016@fau.edu
 
-
+***
 # [](#header-1)Employment
+
+##### Graduate Research Assistant (2015 - present)
+##### ***Applied Cryptography Group***
+<br>
+##### Security Software Engineer Intern (summer 2018)
+##### ***LinkedIn Corporation***  
+<br>
+##### Research Intern (summer 2017)
+##### ***Microsoft Research***
+<br>
+##### Security Analyst (2013 - 2015)
+##### ***Information Services Corporation (ISC)***
 * * *
 
 
