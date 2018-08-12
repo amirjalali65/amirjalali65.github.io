@@ -17,18 +17,12 @@ In summer 2018-2019 I did an internship as a Security Software Engineer with Sec
 
 * * *
 
-
-# [](#header-1)Contact
-
-<span style="color:#f00909">**E-mail:**</span> ajalali2016@fau.edu
-
-***
 # [](#header-1)Employment
 
-##### (2015 - present) Graduate Research Assistant - Applied Cryptography Group, Florida Atlantic University, Boca Raton, FL.
-##### (2018) Security Software Engineer Intern - ***LinkedIn Corporation***, Sunnyvale, CA.  
-##### (2017) Research Intern, ***Microsoft Research***, Redmond, WA.
-##### (2013 - 2015) Security Analyst (2013 - 2015), ***Information Services Corporation (ISC)***, Tehran, Iran.
+##### (2015 - present) <span style="color:#0000FF">Graduate Research Assistant</span> - Florida Atlantic University, Boca Raton, FL.
+##### (2018) <span style="color:#0000FF">Security Software Engineer Intern</span> - ***LinkedIn Corporation***, Sunnyvale, CA.  
+##### (2017) <span style="color:#0000FF">Research Intern</span>, ***Microsoft Research***, Redmond, WA.
+##### (2013 - 2015) <span style="color:#0000FF">Senior Security Analyst</span>, ***Information Services Corporation (ISC)***, Tehran, Iran.
 * * *
 
 
@@ -49,6 +43,12 @@ In summer 2018-2019 I did an internship as a Security Software Engineer with Sec
 # [](#header-1)Teaching
 * * *
 
+
+# [](#header-1)Contact
+
+<span style="color:#f00909">**E-mail:**</span> ajalali2016@fau.edu
+
+* * *
 
 This site has been made by using the [<span style="color:#f00909">Jekyll</span>](https://jekyllrb.com/){:target="_blank"} theme [<span style="color:#f00909">Slate</span>](https://github.com/pages-themes/slate){:target="_blank"}. 
 
