@@ -6,7 +6,7 @@
 layout: default
 ---
 
-<img src="download.png" width="170" 
+<img src="download.jpg" width="170" 
 style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
 I am a PhD graduate in Computer Engineering at Florida Atlantic University, FL. My main research subjects are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. <br> 
