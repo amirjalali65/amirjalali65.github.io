@@ -63,13 +63,16 @@ Renes, V. Soukharev, and D. Urbanik, **SupersingularIsogeny Key Encapsulation (S
 # [](#header-1)Development
 
 * * *
+* [Highly-optimized ARMv8 implementation of Supersingular Isogeny Key Encapsulation (SIKE)](https://github.com/amirjalali65/armv8-sike)
+* [Supersingular Isogeny Key Encapsulation (SIKE) over p964](https://github.com/amirjalali65/SIKEp964)
+* [The efficient implementation of supersingular isogeny 3-party group key exchange ](https://github.com/amirjalali65/PQCisogenyGroupKey)
 
 # [](#header-1)Teaching
 * * *
 
 ##### (2016-2018) <span style="color:#0000FF">Cryptographic Engineering Lab Instructor</span> - ***Florida Atlantic University***, Boca Raton, FL.  
 ##### (2016-2018) <span style="color:#0000FF">Design of Digital Systems Lab Instructor</span> - ***Florida Atlantic University***, Boca Raton, FL.  
-
+* * *
 # [](#header-1)Contact
 
 [<span style="color:#f00909">**E-mail**</span>](mailto:ajalali2016@fau.edu)
