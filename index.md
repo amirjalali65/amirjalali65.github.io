@@ -8,9 +8,8 @@ layout: default
 
 <img src="amirjalali.jpg" width= "170" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 
-I am a PhD graduate in Computer Engineering at Florida Atlantic University, FL. My main research subjects are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. <br> 
-I recieved a M.S. in Computer Architecture at Tehran Polytechnic, Iran (2012). 
-I started my PhD in 2015 at Rochester Institute of Technology, New York at Applied Cryptography research lab. Later in 2017 our labratory joined the [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/) at Florida Atlantic University. Since then I have been working as a graduate researcher under the supervision of [Reza Azarderakhsh](https://faculty.eng.fau.edu/azarderakhsh/). <br>
+I received my Ph.D. in Computer Engineering from the department of computer and electrical engineering and computer science at Florida Atlantic University, FL. My main research interests are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. In particular, I am working on highly-optimized implementation of cryptography protocols on various platforms.<br> 
+During my doctoral research, I have been working as a research assistant with [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/) at Florida Atlantic University.  <br>
 During summer 2017-2018 I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
 In summer 2018-2019 I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.    
 
