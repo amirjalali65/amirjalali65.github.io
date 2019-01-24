@@ -28,12 +28,12 @@ In summer 2018-2019 I did an internship as a Security Software Engineer with Sec
 # [](#header-1)Publications
 
 #### [](#header-4)Journals
-..*[J5] H. Chen, R. Gilad-Bachrach, K. Han, Z. Huang, A. Jalali, K. Laine, K. Lauter,**Logistic regression over encrypted data from fully homomorphic encryption**, *BioMed Central Journal*, 2018.<br>
-..*[J4] R. Azarderakhsh, M. Campagna, C. Costello, L. De Feo, B. Hess, A. Jalali, D. Jao, B. Koziel, B. LaMacchia, P. Longa, M. Naehrig, J.
+**[J5]** H. Chen, R. Gilad-Bachrach, K. Han, Z. Huang, A. Jalali, K. Laine, K. Lauter,**Logistic regression over encrypted data from fully homomorphic encryption**, *BioMed Central Journal*, 2018.<br>
+**[J4]** R. Azarderakhsh, M. Campagna, C. Costello, L. De Feo, B. Hess, A. Jalali, D. Jao, B. Koziel, B. LaMacchia, P. Longa, M. Naehrig, J.
 Renes, V. Soukharev, and D. Urbanik, **SupersingularIsogeny Key Encapsulation (SIKE)**. *Submission to the NIST Post-Quantum Standardization project*, 2017.<br>
-..*[J3] M. Mozaffari Kermani, R. Azarderakhsh, A. Sarker, and A. Jalali,**Efficient and reliable error detection architectures of Hash-Counter-Hash tweakable enciphering schemes**,* ACM Trans. Embedded Comput. Syst.*, 2018.<br>
-..*[J2] M. Mozaffari Kermani, A. Jalali, R. Azarderakhsh, J. Xie, and R. Choo, **Reliable Inversion in GF($2^{8}$) with Redundant Arithmetic for Secure Error Detection of Cryptographic Architectures**, *IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.*, 2018.<br>
-..*[J1] A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, and D. Jao. **Supersingular Isogeny Diffie-Hellman Key Exchange on 64-bit ARM**. *Transactions on Dependable and Secure Computing*, 2017<br><br>
+**[J3]** M. Mozaffari Kermani, R. Azarderakhsh, A. Sarker, and A. Jalali,**Efficient and reliable error detection architectures of Hash-Counter-Hash tweakable enciphering schemes**,* ACM Trans. Embedded Comput. Syst.*, 2018.<br>
+**[J2]** M. Mozaffari Kermani, A. Jalali, R. Azarderakhsh, J. Xie, and R. Choo, **Reliable Inversion in GF($2^{8}$) with Redundant Arithmetic for Secure Error Detection of Cryptographic Architectures**, *IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.*, 2018.<br>
+**[J1]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, and D. Jao. **Supersingular Isogeny Diffie-Hellman Key Exchange on 64-bit ARM**. *Transactions on Dependable and Secure Computing*, 2017<br><br>
 #### [](#header-4)Conferences
 
 * * *
