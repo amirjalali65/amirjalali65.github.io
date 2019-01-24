@@ -6,7 +6,7 @@
 layout: default
 ---
 
-<img src="Amir.jpg" width= "170" style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
+<img src="Amir1.jpg" width= "170" style="float: left; margin-right: 20px; margin-bottom: 10px; border: solid black;">
 
 I am a PhD graduate in Computer Engineering at Florida Atlantic University, FL. My main research subjects are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. <br> 
 I recieved a M.S. in Computer Architecture at Tehran Polytechnic, Iran (2012). 
