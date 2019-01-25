@@ -11,7 +11,7 @@ I received my Ph.D. in Computer Engineering from the Department of Computer and 
 During my doctoral research, I was conducting research with a focus on the Post-Quantum Isogeny-based Cryptography at the [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/).  <br>
 During summer 2017-2018, I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under the supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
 In summer 2018-2019, I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.<br>
-I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https://www.microsoft.com/en-us/research/project/sike/) team. SIKE mechanism is one of the promising candidates during the quantum era. The proposal can is publicly available at [NIST's Post-Quantum Standardization Submissions](https://csrc.nist.gov/projects/post-quantum-cryptography/round-1-submissions).       
+I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https://www.microsoft.com/en-us/research/project/sike/) team. SIKE mechanism is one of the promising quantum resistant candidates for the quantum era. The pr posal is publicly available at [NIST's Post-Quantum Standardization Submissions](https://csrc.nist.gov/projects/post-quantum-cryptography/round-1-submissions).      <br> 
 * * *
 
 # [](#header-1)Employment
