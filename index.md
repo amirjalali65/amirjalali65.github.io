@@ -8,11 +8,10 @@ layout: default
 
 <img src="amirjalali.jpg" width= "170" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 
-I received my Ph.D. in Computer Engineering from the department of computer and electrical engineering and computer science at Florida Atlantic University, FL. My main research interests are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. In particular, I am working on highly-optimized implementation of cryptography protocols on various platforms.<br> 
-During my doctoral research, I have been working as a research assistant with [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/) at Florida Atlantic University.  <br>
-During summer 2017-2018 I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
-In summer 2018-2019 I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.    
-
+I received my Ph.D. in Computer Engineering from the Department of Computer and Electrical Engineering and Computer Science, Florida Atlantic University. My main research interests are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. In particular, I am working on highly-optimized implementation of cryptography protocols on various platforms.<br> 
+During my doctoral research, I was conducting research with a focus on the Post-Quantum Isogeny-based Cryptography at the [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/).  <br>
+During summer 2017-2018, I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under the supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
+In summer 2018-2019, I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.<br>    
 * * *
 
 # [](#header-1)Employment
@@ -75,6 +74,7 @@ Renes, V. Soukharev, and D. Urbanik, **SupersingularIsogeny Key Encapsulation (S
 
 [<span style="color:#f00909">**E-mail**</span>](mailto:ajalali2016@fau.edu)
 
+[<img src="mail.jpg" width="80">](mailto:ajalali2016@fau.edu)
 [<span style="color:#f00909">**LinkedIn**</span>](https://www.linkedin.com/in/amir-jalali-764a7535/) 
 
 This site has been made by using the [<span style="color:#f00909">Jekyll</span>](https://jekyllrb.com/){:target="_blank"} theme [<span style="color:#f00909">Slate</span>](https://github.com/pages-themes/slate){:target="_blank"}. 
