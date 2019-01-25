@@ -82,7 +82,7 @@ Renes, V. Soukharev, and D. Urbanik, **SupersingularIsogeny Key Encapsulation (S
 [<img src="mail.png" width="80">](mailto:ajalali2016@fau.edu)
 
 
-[<img src="linkedin.png" width="80">](https://www.linkedin.com/in/amir-jalali-764a7535/) 
+[<img src="in.png" width="80">](https://www.linkedin.com/in/amir-jalali-764a7535/) 
 
 
 
