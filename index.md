@@ -7,11 +7,13 @@ layout: default
 ---
 
 <img src="amirjalali.jpg" width= "170" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-
+<div style="text-align: right">
 I received my Ph.D. in Computer Engineering from the Department of Computer and Electrical Engineering and Computer Science, Florida Atlantic University. My main research interests are <span style="color:#f00909">**Post-Quantum Cryptography**</span> and <span style="color:#f00909">**Homomorphic Encryption**</span>. In particular, I am working on highly-optimized implementation of cryptography protocols on various platforms.<br> 
 During my doctoral research, I was conducting research with a focus on the Post-Quantum Isogeny-based Cryptography at the [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/).  <br>
 During summer 2017-2018, I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under the supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
-In summer 2018-2019, I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.<br>    
+In summer 2018-2019, I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.
+</div>
+<br>    
 * * *
 
 # [](#header-1)Employment
