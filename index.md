@@ -18,7 +18,6 @@ I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https
 
 ##### (2018) <span style="color:#0000FF">Security Software Engineer Intern</span> - ***LinkedIn Corporation***, Sunnyvale, CA.  
 ##### (2017) <span style="color:#0000FF">Research Intern</span>, ***Microsoft Research***, Redmond, WA.
-##### (2013 - 2015) <span style="color:#0000FF">Senior Security Analyst</span>, ***Information Services Corporation (ISC)***, Tehran, Iran.
 * * *
 
 
@@ -34,7 +33,7 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 
 **[J2]** M. Mozaffari Kermani, A. Jalali, R. Azarderakhsh, J. Xie, and R. Choo, **"Reliable Inversion in GF($2^{8}$) with Redundant Arithmetic for Secure Error Detection of Cryptographic Architectures"**, *IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.*, 2018.<br>
 
-**[J1]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, and D. Jao. **"Supersingular Isogeny Diffie-Hellman Key Exchange on 64-bit ARM"**. *Transactions on Dependable and Secure Computing*, 2017<br><br>
+**[J1]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, and D. Jao. **"Supersingular Isogeny Diffie-Hellman Key Exchange on 64-bit ARM"**. *IEEE Trans. on Dependable and Secure Computing*, 2017<br><br>
 
 #### [](#header-4)Conferences
 
