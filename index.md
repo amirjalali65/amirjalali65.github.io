@@ -16,8 +16,8 @@ I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https
 
 # [](#header-1)Employment
 
-##### (2018) <span style="color:#0000FF">Security Software Engineer Intern</span> - ***LinkedIn Corporation***, Sunnyvale, CA.  
-##### (2017) <span style="color:#0000FF">Research Intern</span>, ***Microsoft Research***, Redmond, WA.
+* Security Software Engineer Intern - **LinkedIn Corporation**, Sunnyvale, CA.  
+* Research Intern, **Microsoft Research**, Redmond, WA.
 * * *
 
 
@@ -66,8 +66,8 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 * * *
 # [](#header-1)Teaching
 
-##### (2016-2018) <span style="color:#0000FF">Cryptographic Engineering Lab Instructor</span> - ***Florida Atlantic University***, Boca Raton, FL.  
-##### (2016-2018) <span style="color:#0000FF">Design of Digital Systems Lab Instructor</span> - ***Florida Atlantic University***, Boca Raton, FL.  
+* **Cryptographic Engineering Lab Instructor** - Florida Atlantic University, Boca Raton, FL.  
+* **Design of Digital Systems Lab Instructor** - Florida Atlantic University, Boca Raton, FL.  
 * * *
 # [](#header-1)Contact
 
