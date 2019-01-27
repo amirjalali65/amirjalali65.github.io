@@ -16,8 +16,8 @@ I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https
 
 # [](#header-1)Employment
 
-* Security Software Engineer Intern - **LinkedIn Corporation**, Sunnyvale, CA.  
-* Research Intern, **Microsoft Research**, Redmond, WA.
+* Security Software Engineer Intern - **LinkedIn Corporation**, Sunnyvale, CA. (Summer 2018)  
+* Research Intern, **Microsoft Research**, Redmond, WA. (Summer 2017)
 
 * * *
 
@@ -57,7 +57,6 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 **[C1]** A. Jalali, and H. Pedram, **"Timing Yield and Reliability Improvement of Carbon Nano-tube FET Based Digital Circuits with Statistical Driven Correlation-aware Placement"**, *Electronics and Nanotechnology (ELNANO), IEEE XXXIII International Scientific Conference*, 2013.
 * * *
 
-
 # [](#header-1)Development
 
 * [Highly-optimized ARMv8 implementation of Supersingular Isogeny Key Encapsulation (SIKE)](https://github.com/amirjalali65/armv8-sike)
@@ -65,10 +64,20 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 * [The efficient implementation of supersingular isogeny 3-party group key exchange ](https://github.com/amirjalali65/PQCisogenyGroupKey)
 
 * * *
+
+# [](#header-1)Awards
+
+* Dr. Christopher Seiffert Memorial Award for outstanding Ph.D. Graduate, Florida Atlantic University (December 2018) 
+
+* Second place in iDash Privacy and Security Workshop Competition, Homomorphic Encryption Track, Microsoft Research Team. (October 2017)
+
+* Best Poster Award in FICS Annual Conference on Cybersecurity, University of Florida. (March 2017)
+
+* * *
 # [](#header-1)Teaching
 
-* **Cryptographic Engineering Lab Instructor** - Florida Atlantic University, Boca Raton, FL.  
-* **Design of Digital Systems Lab Instructor** - Florida Atlantic University, Boca Raton, FL.  
+* **Cryptographic Engineering Lab Instructor** - Florida Atlantic University. (2016-2018)  
+* **Design of Digital Systems Lab Instructor** - Florida Atlantic University. (2016-2018) 
 
 * * *
 # [](#header-1)Contact
