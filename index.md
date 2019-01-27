@@ -18,6 +18,7 @@ I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https
 
 * Security Software Engineer Intern - **LinkedIn Corporation**, Sunnyvale, CA.  
 * Research Intern, **Microsoft Research**, Redmond, WA.
+
 * * *
 
 
@@ -68,14 +69,15 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 
 * **Cryptographic Engineering Lab Instructor** - Florida Atlantic University, Boca Raton, FL.  
 * **Design of Digital Systems Lab Instructor** - Florida Atlantic University, Boca Raton, FL.  
+
 * * *
 # [](#header-1)Contact
 
 
-[**E-mail: **](mailto:ajalali2016@fau.edu)
+**E-mail:** ajalali2016@fau.edu
 
 
-[**LinkedIn: **](https://www.linkedin.com/in/amir-jalali-764a7535/) 
+[LinkedIn](https://www.linkedin.com/in/amir-jalali-764a7535/) 
 
 <!--
 [<img src="mail.png" width="50" height="50" style="padding:25px;">](mailto:ajalali2016@fau.edu)
