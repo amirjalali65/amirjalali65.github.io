@@ -61,17 +61,18 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 
 * [Highly-optimized ARMv8 implementation of Supersingular Isogeny Key Encapsulation (SIKE)](https://github.com/amirjalali65/armv8-sike)
 * [Supersingular Isogeny Key Encapsulation (SIKE) over p964](https://github.com/amirjalali65/SIKEp964)
-* [The efficient implementation of supersingular isogeny 3-party group key exchange ](https://github.com/amirjalali65/PQCisogenyGroupKey)
+* [The Efficient Implementation of Supersingular Isogeny 3-party Group Key Agreement](https://github.com/amirjalali65/PQCisogenyGroupKey)
+* [The Efficient and Constant-Time CSIDH on ARMv8](https://github.com/amirjalali65/ARMv8-CSIDH) 
 
 * * *
 
 # [](#header-1)Awards
 
-* Dr. Christopher Seiffert Memorial Award for outstanding Ph.D. Graduate, Florida Atlantic University (December 2018) 
+* **Dr. Christopher Seiffert Memorial Award for outstanding Ph.D. Graduate**, Florida Atlantic University (December 2018) 
 
-* Second place in iDash Privacy and Security Workshop Competition, Homomorphic Encryption Track, Microsoft Research Team. (October 2017)
+* **Second place in iDash Privacy and Security Workshop Competition**, Homomorphic Encryption Track, Microsoft Research Team. (October 2017)
 
-* Best Poster Award in FICS Annual Conference on Cybersecurity, University of Florida. (March 2017)
+* **Best Poster Award in FICS Annual Conference on Cybersecurity**, University of Florida. (March 2017)
 
 * * *
 # [](#header-1)Teaching
