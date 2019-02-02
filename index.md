@@ -61,8 +61,8 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 
 * [Highly-optimized ARMv8 implementation of Supersingular Isogeny Key Encapsulation (SIKE)](https://github.com/amirjalali65/armv8-sike)
 * [Supersingular Isogeny Key Encapsulation (SIKE) over p964](https://github.com/amirjalali65/SIKEp964)
-* [The Efficient Implementation of Supersingular Isogeny 3-party Group Key Agreement](https://github.com/amirjalali65/PQCisogenyGroupKey)
-* [The Efficient and Constant-Time CSIDH on ARMv8](https://github.com/amirjalali65/ARMv8-CSIDH) 
+* [An Efficient Implementation of Supersingular Isogeny 3-party Group Key Agreement](https://github.com/amirjalali65/PQCisogenyGroupKey)
+* [Constant-Time CSIDH on ARMv8](https://github.com/amirjalali65/ARMv8-CSIDH) 
 
 * * *
 
