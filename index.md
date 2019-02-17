@@ -11,16 +11,17 @@ I received my Ph.D. in Computer Engineering from the Department of Computer and 
 During my doctoral research, I was conducting research with a focus on the Post-Quantum Isogeny-based Cryptography at the [Institute for Sensing and Embedded Network Systems Engineering (ISENSE)](http://isense.fau.edu/).  <br>
 During summer 2017-2018, I was working as a Research Intern with [Cryptography Research Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) at Microsoft Research, under the supervison of [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/) and [Kim Laine](https://www.microsoft.com/en-us/research/people/kilai/).  <br>
 In summer 2018-2019, I did an internship as a Security Software Engineer with Security Group at LinkedIn Corporation under supervision of Neil Davenport and Tushar Dalvi.<br>
-I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https://www.microsoft.com/en-us/research/project/sike/) team. SIKE mechanism is one of the promising quantum resistant candidates for the quantum era. The proposal is publicly available at [NIST's Post-Quantum Standardization Submissions](https://csrc.nist.gov/projects/post-quantum-cryptography/round-1-submissions).      <br> 
+I am also a member of the [Supersingular Isogeny Key Encapsulation (SIKE)](https://www.microsoft.com/en-us/research/project/sike/) team. SIKE mechanism is one of the promising quantum resistant candidates for the quantum era. The proposal is publicly available at [NIST's Post-Quantum Standardization Submissions](https://csrc.nist.gov/projects/post-quantum-cryptography/round-1-submissions).      <br>
+Currently, I am a Software Engineer with the Information Security Group at LinkedIn, working on a variety of security software implementations.  
 * * *
 
 # [](#header-1)Employment
 
+* Software Engineer - **LinkedIn Corporation**, Sunnyvale, CA. (February 2019 - present)
 * Security Software Engineer Intern - **LinkedIn Corporation**, Sunnyvale, CA. (Summer 2018)  
 * Research Intern, **Microsoft Research**, Redmond, WA. (Summer 2017)
 
 * * *
-
 
 # [](#header-1)Publications
 
@@ -84,15 +85,11 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 # [](#header-1)Contact
 
 
-**E-mail:** ajalali2016@fau.edu
+**E-mail:** ajalali[at]linkedin.com
 
 
 [LinkedIn](https://www.linkedin.com/in/amir-jalali-764a7535/) 
 
-<!--
-[<img src="mail.png" width="50" height="50" style="padding:25px;">](mailto:ajalali2016@fau.edu)
-[<img src="in.png" width="60" height="50">](https://www.linkedin.com/in/amir-jalali-764a7535/) 
--->
 
 
 
