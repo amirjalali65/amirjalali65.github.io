@@ -26,6 +26,8 @@ Currently, I am a Software Engineer with the Information Security Group at Linke
 # [](#header-1)Publications
 
 #### [](#header-4)Journals
+**[J6]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, M. Campagna, and D. Jao,**"ARMv8 SIKE: Optimized Supersingular Isogeny Key Encapsulation on ARMv8 Processors"**, *IEEE Trans. on Circuits and Systems*, 2019.<br>
+
 **[J5]** H. Chen, R. Gilad-Bachrach, K. Han, Z. Huang, A. Jalali, K. Laine, K. Lauter,**"Logistic regression over encrypted data from fully homomorphic encryption"**, *BioMed Central Journal*, 2018.<br>
 
 **[J4]** R. Azarderakhsh, M. Campagna, C. Costello, L. De Feo, B. Hess, A. Jalali, D. Jao, B. Koziel, B. LaMacchia, P. Longa, M. Naehrig, J.
