@@ -23,7 +23,7 @@ Currently, I am a Software Engineer with the Information Security Group at Linke
 
 * * *
 
-# [](#header-1)Publications
+# [](#header-1)Selected Publications 
 
 #### [](#header-4)Journals
 **[J6]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, M. Campagna, and D. Jao,**"ARMv8 SIKE: Optimized Supersingular Isogeny Key Encapsulation on ARMv8 Processors"**, *IEEE Trans. on Circuits and Systems*, 2019.<br>
@@ -40,6 +40,7 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 **[J1]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, and D. Jao. **"Supersingular Isogeny Diffie-Hellman Key Exchange on 64-bit ARM"**. *IEEE Trans. on Dependable and Secure Computing*, 2017<br><br>
 
 #### [](#header-4)Conferences
+**[C10]** Seo. H, A. Jalali, R. Azarderakhsh, **"SIKE Round 2 Speed Record on ARM Cortex-M4"**,*Cryptology and Network Security. CANS 2019. Lecture Notes in Computer Science, vol 11829. Springer*, 2019. **Best Paper Award**<br>
 
 **[C9]** A. Jalali, R. Azarderakhsh, M. Mozaffari Kermani, and D. Jao, **"Towards Optimized and Constant-Time CSIDH on Embedded Devices"**, *In Proc. Constructive Side-Channel Analysis and Secure Design (COSADE)*, 2019.<br>
 
