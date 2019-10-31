@@ -71,6 +71,7 @@ Renes, V. Soukharev, and D. Urbanik, **"SupersingularIsogeny Key Encapsulation (
 * * *
 
 # [](#header-1)Awards
+* **Best Paper Award in Cryptology and Network Security, CANS 2019**, Fuzhou, China (October 2019)
 
 * **Dr. Christopher Seiffert Memorial Award for outstanding Ph.D. Graduate**, Florida Atlantic University (December 2018) 
 
